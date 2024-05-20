@@ -1,0 +1,56 @@
+{
+    "subAxes": 
+        {
+            "FontName": "Times New Roman",
+            "FontSize": 15,
+            "Color": "none",
+            "LineWidth": 1.2,
+            "XGrid": "on",
+            "YGrid": "on",
+            "ZGrid": "off",
+            "GridAlpha": 0.15,
+            "GridColor": [0.15, 0.15, 0.15],
+            "GridLineStyle": "-",
+            "Box": "on",
+            "TickDir": "in",
+            "Comments": "theme of the sub axes"
+        },
+
+    "zoomedArea": 
+        {
+            "Color": "k",
+            "FaceColor": "none",
+            "FaceAlpha": 0,
+            "LineStyle": "-",
+            "LineWidth": 1.5,
+            "Comments": "theme of the zoomed area"
+        },
+
+     "dynamicRect": 
+        {
+            "LineColor": [0, 0.4471, 0.7412],
+            "LineWidth": 0.25,
+            "Marker": "s",
+            "MarkerSize": 9,
+            "FaceColor": [0, 0.4471, 0.7412],
+            "FaceAspect": 0.3,
+            "EdgeColor": "k",
+            "Comments": "theme of the zoomed area"
+        },
+
+     "connection": 
+        {
+            "LineColor": "k",
+            "LineWidth": 1,
+            "LineStyle": ":",
+            "StartHeadStyle": "ellipse",
+            "StartHeadLength": 3,
+            "StartHeadWidth": 3,
+            "EndHeadStyle": "cback2",
+            "EndHeadLength": 7,
+            "EndHeadWidth": 7,
+            "Comments": "theme of the zoomed area"
+        }
+
+}
+
